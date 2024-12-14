@@ -1,4 +1,4 @@
-# DisableBackgroundNoise
+# MassivePlushy
 Adds a massive plushy because why not?
 
 ![image](https://raw.githubusercontent.com/defaultuser0-nerd/MassivePlushy/refs/heads/main/Screenshot%202024-12-13%20210212.png)
