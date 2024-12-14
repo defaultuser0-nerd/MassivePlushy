@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace sigmamodtemplate
+namespace MassivePlushy
 {
     [BepInPlugin("defaultuser0.plushymod", "MassivePlushy", "1.0.0")]
     public class Plugin : BaseUnityPlugin
