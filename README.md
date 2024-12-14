@@ -6,6 +6,8 @@ Adds a massive plushy because why not?
 #### **Requirements**
  - [BepInEx](<https://github.com/BepInEx/BepInEx/releases/latest>)
 
+#### Notes
+- This mod doesn't include any colliders, making it safe to use in public lobbies.
 
 #### **Installation**
 1. Download the [Mod](https://github.com/defaultuser0-nerd/MassivePlushy/releases/latest)
