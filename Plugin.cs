@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace MassivePlushy
 {
-    [BepInPlugin("defaultuser0.plushymod", "MassivePlushy", "1.0.0")]
+    [BepInPlugin(PluginInfo.GUID, PluginInfo.Name, PluginInfo.Version)]
     public class Plugin : BaseUnityPlugin
     {
 
