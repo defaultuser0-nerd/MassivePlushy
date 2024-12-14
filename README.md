@@ -2,6 +2,7 @@
 Adds a massive plushy because why not?
 
 ![image](https://raw.githubusercontent.com/defaultuser0-nerd/MassivePlushy/refs/heads/main/Screenshot%202024-12-13%20210212.png)
+![image](https://raw.githubusercontent.com/defaultuser0-nerd/MassivePlushy/refs/heads/main/Screenshot%202024-12-14%20120855.png)
 
 #### **Requirements**
  - [BepInEx](<https://github.com/BepInEx/BepInEx/releases/latest>)
