@@ -1,5 +1,5 @@
 # MassivePlushy
-Adds a massive plushy because why not?
+Adds a massive plushy to city and forest because why not?
 
 ![image](https://raw.githubusercontent.com/defaultuser0-nerd/MassivePlushy/refs/heads/main/Screenshot%202024-12-13%20210212.png)
 ![image](https://raw.githubusercontent.com/defaultuser0-nerd/MassivePlushy/refs/heads/main/Screenshot%202024-12-14%20120855.png)
@@ -8,7 +8,7 @@ Adds a massive plushy because why not?
  - [BepInEx](<https://github.com/BepInEx/BepInEx/releases/latest>)
 
 #### Notes
-- This mod doesn't include any colliders, making it safe to use in public lobbies.
+- This mod doesn't include any added colliders, making it safe to use in public lobbies.
 
 #### **Installation**
 1. Download the [Mod](https://github.com/defaultuser0-nerd/MassivePlushy/releases/latest)
